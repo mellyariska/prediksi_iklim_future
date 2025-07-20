@@ -7,7 +7,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.metrics import mean_squared_error, r2_score
 
 # Judul Dashboard
-st.title("🌦️ Prediksi Cuaca Sumatera Selatan")
+st.title("🌦️ Prediksi Cuaca di Wilayah Indonesia dengan Machine Learning")
 st.write("Upload data cuaca harian untuk melatih model dan prediksi cuaca 10–50 tahun ke depan.")
 
 # Upload File
